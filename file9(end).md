@@ -1,4 +1,4 @@
-How to use Terraform  for   developers?
+How to use Terraform  as  developer?
 - write +  update terraform code.
 - test locally  on the   environment
 - create  a pull request in a version control.
