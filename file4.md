@@ -66,11 +66,7 @@ How commands Plan,Apply,Destroy work?
   <img width="1200" height="577" alt="image" src="https://github.com/user-attachments/assets/36424b7a-4523-4282-9436-5cd214a9827c" />
 
 
------
-How to make Remote backend using (Terraform cloud+AWS)?
 
-  - How to use Terraform cloud?
-    - 
   
      
   
